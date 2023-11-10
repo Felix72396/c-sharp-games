@@ -1,0 +1,14 @@
+D:\Programming\C#\Juegos C#\GuessNum\bin\Debug\GuessNum.exe.config
+D:\Programming\C#\Juegos C#\GuessNum\bin\Debug\GuessNum.exe
+D:\Programming\C#\Juegos C#\GuessNum\bin\Debug\GuessNum.pdb
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.csprojAssemblyReference.cache
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.Form1.resources
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.Properties.Resources.resources
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.csproj.GenerateResource.cache
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.exe
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.pdb
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.frmRecord.resources
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.menuFrm.resources
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.Form2.resources
+D:\Programming\C#\Juegos C#\GuessNum\obj\Debug\GuessNum.frmRecord2.resources

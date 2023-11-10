@@ -1,0 +1,24 @@
+D:\Programming\C#\Juegos C#\Mine-Seeker\bin\Debug\Mine-Seeker.exe.config
+D:\Programming\C#\Juegos C#\Mine-Seeker\bin\Debug\Mine-Seeker.exe
+D:\Programming\C#\Juegos C#\Mine-Seeker\bin\Debug\Mine-Seeker.pdb
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine-Seeker.csprojAssemblyReference.cache
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine_Seeker.Form1.resources
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine_Seeker.Properties.Resources.resources
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine-Seeker.csproj.GenerateResource.cache
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine-Seeker.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine-Seeker.exe
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine-Seeker.pdb
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Interop.WMPLib.dll
+D:\Programming\C#\Juegos C#\Mine-Seeker\obj\Debug\Mine-Seeker.csproj.ResolveComReference.cache
+D:\programming\C#\games\Mine-Seeker\bin\Debug\Mine-Seeker.exe.config
+D:\programming\C#\games\Mine-Seeker\bin\Debug\Mine-Seeker.exe
+D:\programming\C#\games\Mine-Seeker\bin\Debug\Mine-Seeker.pdb
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine-Seeker.csprojAssemblyReference.cache
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Interop.WMPLib.dll
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine-Seeker.csproj.ResolveComReference.cache
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine_Seeker.Form1.resources
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine_Seeker.Properties.Resources.resources
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine-Seeker.csproj.GenerateResource.cache
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine-Seeker.csproj.CoreCompileInputs.cache
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine-Seeker.exe
+D:\programming\C#\games\Mine-Seeker\obj\Debug\Mine-Seeker.pdb

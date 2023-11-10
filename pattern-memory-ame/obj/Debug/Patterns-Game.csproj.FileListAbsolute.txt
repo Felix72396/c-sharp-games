@@ -1,0 +1,12 @@
+D:\Programming\C#\Juegos C#\Patterns-Game\bin\Debug\Patterns-Game.exe.config
+D:\Programming\C#\Juegos C#\Patterns-Game\bin\Debug\Patterns-Game.exe
+D:\Programming\C#\Juegos C#\Patterns-Game\bin\Debug\Patterns-Game.pdb
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.csprojAssemblyReference.cache
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns_Game.Form1.resources
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns_Game.Properties.Resources.resources
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.csproj.GenerateResource.cache
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.exe
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.pdb
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Interop.WMPLib.dll
+D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.csproj.ResolveComReference.cache
