@@ -10,3 +10,15 @@ D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.exe
 D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.pdb
 D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Interop.WMPLib.dll
 D:\Programming\C#\Juegos C#\Patterns-Game\obj\Debug\Patterns-Game.csproj.ResolveComReference.cache
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\bin\Debug\Patterns-Game.exe.config
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\bin\Debug\Patterns-Game.exe
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\bin\Debug\Patterns-Game.pdb
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns-Game.csprojAssemblyReference.cache
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Interop.WMPLib.dll
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns-Game.csproj.ResolveComReference.cache
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns_Game.Form1.resources
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns_Game.Properties.Resources.resources
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns-Game.csproj.GenerateResource.cache
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns-Game.csproj.CoreCompileInputs.cache
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns-Game.exe
+D:\programming\C#\Juegos C#\games\pattern-memory-ame\obj\Debug\Patterns-Game.pdb
